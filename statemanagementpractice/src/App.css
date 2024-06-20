@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: lightslategray;
+}
+
+.App {
+    text-align: center;
+    font-size: 20px;
+}
+
+.nav {
+    border: 3px solid #363747;
+    background-color: #363747;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+.form {
+    font-size: 5vh;
+    background-color: black;
+    color: snow;
+}
+.img{
+    margin-left: 300px;
+    border: 2px solid tomato;
+}
